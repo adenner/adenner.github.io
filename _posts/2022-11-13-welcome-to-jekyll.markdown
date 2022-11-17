@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Lug!"
 date:   2022-11-13 17:11:46 -0600
 categories: jekyll update
 ---
